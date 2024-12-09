@@ -1,4 +1,8 @@
 # auto-shunet
+mian.py代码作者：https://github.com/rjt2004/SHU-Inet-Auto-Login-Send-IP
+
+本人仅进行二次开发
+
 上海大学校园网自动化认证docker版
 
 主要用于软路由openwrt下的docker环境
