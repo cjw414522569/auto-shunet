@@ -1,5 +1,9 @@
 # auto-shunet
-mian.py代码作者：https://github.com/rjt2004/SHU-Inet-Auto-Login-Send-IP
+
+
+https://github.com/rjt2004/SHU-Inet-Auto-Login-Send-IP
+
+
 
 本人仅进行二次开发
 
