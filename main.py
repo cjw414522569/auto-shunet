@@ -41,7 +41,7 @@ def login_campus_network():
                 username_input = WebDriverWait(driver, 10).until(
                     EC.visibility_of_element_located((By.ID, 'username'))
                 )
-                username_input.send_keys('24721481')
+                username_input.send_keys('*******')
 
                 pwd_tip = WebDriverWait(driver, 10).until(
                     EC.element_to_be_clickable((By.ID, 'pwd_tip'))
@@ -51,7 +51,7 @@ def login_campus_network():
                 password_input = WebDriverWait(driver, 10).until(
                     EC.visibility_of_element_located((By.ID, 'pwd'))
                 )
-                password_input.send_keys('Glh544664')
+                password_input.send_keys('*******')
 
                 login_button = WebDriverWait(driver, 10).until(
                     EC.element_to_be_clickable((By.ID, 'loginLink_div'))
