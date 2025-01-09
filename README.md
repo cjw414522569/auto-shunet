@@ -1,4 +1,5 @@
 # auto-shunet
+项目已完成，还在优化中，代码有空会上传
 
 
 https://github.com/rjt2004/SHU-Inet-Auto-Login-Send-IP
